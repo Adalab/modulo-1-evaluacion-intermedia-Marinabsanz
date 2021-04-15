@@ -1,0 +1,32 @@
+.head {
+  display: inline-block;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  position: fixed;
+  color: #ffffff;
+}
+
+.nav1 {
+  color: #4a4a4a;
+  text-transform: uppercase;
+  font-size: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.logo {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.title {
+  background-color: #3cdbc0;
+  color: #ffffff;
+  text-transform: capitalize;
+  font-size: 30px;
+}
